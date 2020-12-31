@@ -1,5 +1,7 @@
 # B1N_C0D3
 Ferramenta para Conversão de Decimal para binário
+Ferramenta de conversão de bit para Byte 
+Ferramenta de conversão de Byte para bite
 #Como usar
 cd B1N_C0D3
 chmod +x b1n.py
